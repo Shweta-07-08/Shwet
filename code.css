@@ -1,0 +1,27 @@
+body {
+	background-color: #f2f2f2; /* light gray background */
+	font-family: Arial, sans-serif; /* font style */
+}
+
+h1 {
+	color: #00698f; /* blue text color */
+	font-size: 36px; /* font size */
+}
+
+p {
+	color: #333; /* dark gray text color */
+	font-size: 18px; /* font size */
+}
+
+button {
+	background-color: #4CAF50; /* green background color */
+	color: #fff; /* white text color */
+	padding: 10px 20px; /* padding */
+	border: none; /* no border */
+	border-radius: 5px; /* rounded corners */
+	cursor: pointer; /* pointer cursor */
+}
+
+button:hover {
+	background-color: #3e8e41; /* darker green background color on hover */
+}
